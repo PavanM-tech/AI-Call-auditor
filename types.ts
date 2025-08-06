@@ -1,4 +1,3 @@
-
 export interface TranscriptSegment {
   speaker: 'Agent' | 'Customer' | 'Unknown';
   start_time: number;
